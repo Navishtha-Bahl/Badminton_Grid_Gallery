@@ -1,0 +1,11 @@
+img{
+    width: 301px;
+    height: 167px;
+    text-align: center;
+}
+.item img{
+        text-align: center;
+}
+body{
+    text-align: center;
+}
